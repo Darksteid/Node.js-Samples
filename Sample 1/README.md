@@ -4,7 +4,7 @@ Navigate to folder this is contained in, then do the following to install all de
 
 To operate, type npm start
 
-Visit the following:
+Visit the following (change localhost if you have files in different place):
 
 - localhost:3000/hello
 - localhost:3000/hello/(your name without ())

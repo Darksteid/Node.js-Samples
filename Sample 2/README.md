@@ -1,3 +1,5 @@
+# Sample of HTTP GET
+
 Navigate to folder this is contained in, then do the following to install all dependencies:
 
 > npm install

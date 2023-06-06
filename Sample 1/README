@@ -1,16 +1,14 @@
-To use, do the following:
+Navigate to folder this is contained in, then do the following to install all dependencies:
 
-npm install express
-npm install compression
-npm install ejs
+-npm install
 
 To operate, type npm start
 
 Visit the following:
 
-localhost:3000/hello
-localhost:3000/hello/(your name without ())
-localhost:3000/hello/(lang)/(your name without ())
+-localhost:3000/hello
+-localhost:3000/hello/(your name without ())
+-localhost:3000/hello/(lang)/(your name without ())
 
 EX: localhost:3000/hello/jp/Joseph
 

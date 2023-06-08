@@ -12,4 +12,4 @@ Visit the following (change localhost if you have files in different place):
 
 - http://localhost:3000
 
-Uploads folder is left empty intentionally.
+Additionally, make sure you have "uploads" folder in directory for the purpose of uploading files and with approriate permissions for write to.
